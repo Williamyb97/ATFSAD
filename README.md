@@ -38,6 +38,11 @@ dataset is inclouded  in folder "dataset".
 *  1：Run run.py 
 
 
+## Note
+* The default configuration of the code assumes that the number of states in the dynamic graph is 3. Trying other values requires modifying the configuration and some code.
+* The hyperparameters of different models may vary, requiring adjustments to the configuration file.
+* The data preprocessing process takes some time, and some of the generated files are quite large, making it inconvenient to upload them. We will share the preprocessing results later on.
+
 
 
 
