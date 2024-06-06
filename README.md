@@ -24,7 +24,7 @@
 ├── README.md
 
 ## Datasets
-dataset is inclouded  in folder "dataset".
+dataset is inclouded  in folder "data".
 
 
 
