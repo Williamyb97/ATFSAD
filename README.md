@@ -8,7 +8,6 @@
 |   └── data_loader.py
 
 ├── Model
-|    ├── pheme_dual_32_2024-05-22-09-42-09.log
 |    ├── attention.py
 |    ├── decoder.py
 |    ├── embed.py
